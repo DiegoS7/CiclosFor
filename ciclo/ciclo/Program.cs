@@ -21,7 +21,7 @@ namespace ciclo
             Console.WriteLine("Indique de cuanto avanzará el ciclo");
             z = Convert.ToInt32(Console.ReadLine());
 
-            if (x>y)
+            if (x>y)//fghgfgfh
             {
                 for (int i = x; i > y; i -= z)
                 {
